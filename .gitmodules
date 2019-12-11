@@ -1,0 +1,3 @@
+[submodule "lamp_stack"]
+	path = lamp_stack
+	url = https://github.com/thirumoorthir/lamp_stack.git
